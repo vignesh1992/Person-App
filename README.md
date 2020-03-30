@@ -1,4 +1,4 @@
-# Person Application
+# Person CRUD API Application
 
 Sprint boot person management CRUD application which has the below features,
 
