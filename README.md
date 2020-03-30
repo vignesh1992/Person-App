@@ -89,5 +89,5 @@ org.h2.Driver
 Credentials
 
 ```sh
-empty password and user name is sa
+user name is sa with an empty password 
 ```
